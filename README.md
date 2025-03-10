@@ -4,10 +4,10 @@
 <h1 align="" style="font-weight: bold;">Desenvolvedor Full Stack</h1>
 
 <div>
-<a href="https://github.com/iagobecker?tab=stars">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=iagobecker&theme=github_dark&show_icons=true"/>
+<a href="https://github.com/pedrodoliwa?tab=stars">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrodoliwa&theme=github_dark&show_icons=true"/>
 </a>
-  <a href ="https://github.com/iagobecker/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagobecker&layout=compact&theme=github_dark">
+  <a href ="https://github.com/pedrodoliwa/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodoliwa&layout=compact&theme=github_dark">
 </div>
 <br>
 <!-- COMENTADO!!! <a href="https://github.com/darkbecker4-97?tab=repositories">
@@ -16,7 +16,7 @@
   
 <div style="display: inline_block">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://user-images.githubusercontent.com/83254191/274595619-af967208-4a70-4970-be04-4b59935a54c7.png"/>
-  
+
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
