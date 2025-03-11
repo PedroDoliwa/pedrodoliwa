@@ -25,7 +25,7 @@
 </div>
 <br>
 <div>
-  <a href = "https://www.linkedin.com/in/pedrodoliwa/" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
-  <a href = "mailto:phdoliwa7@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
-  <a href = "https://wa.me/5551982539220?text=Ol%C3%A1+Iago%2C+vim+pelo+seu+GitHub." target"_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>
+  <a href = "https://www.linkedin.com/in/pedrodoliwa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:phdoliwa7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://wa.me/5551982539220?text=Ol%C3%A1+Iago%2C+vim+pelo+seu+GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
