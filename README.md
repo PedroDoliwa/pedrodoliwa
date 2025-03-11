@@ -13,16 +13,16 @@
 <!-- COMENTADO!!! <a href="https://github.com/darkbecker4-97?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iagobecker&repo=OLX-Project-Node&theme=dark&show_icons=true"/>
 </a>-->
-  
+      <!--
 <div style="display: inline_block">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://user-images.githubusercontent.com/83254191/274595619-af967208-4a70-4970-be04-4b59935a54c7.png"/>
-
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
+-->
 <br>
 <div>
   <a href = "https://www.linkedin.com/in/pedrodoliwa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
